@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.log
+.npmrc
+
+# Security rules added by Antigravity Sanitizer
+.env
+.env.*
+!.env.example
